@@ -88,3 +88,5 @@ while True:
  
 cv2.destroyAllWindows()
 cam.release()
+
+#Tankyou :)
