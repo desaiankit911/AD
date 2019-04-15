@@ -1,4 +1,4 @@
-#Include file har
+#Include file haarcascade_frontalface_default.xml
 
 import cv2
 import numpy as np
